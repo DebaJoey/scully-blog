@@ -1,0 +1,11 @@
+identifier: l3t0m5x54at5vbre
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-blog
+homeFolder: /Users/macbook/Desktop/Angular Projects/scully-blog
+distFolder: dist/scully-blog
+outDir: /Users/macbook/Desktop/Angular Projects/scully-blog/dist/static
+handle404: ''
+allowErrorCollect: true
